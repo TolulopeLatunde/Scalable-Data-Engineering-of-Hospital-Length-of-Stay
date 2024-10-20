@@ -1,4 +1,4 @@
-# Scalable-Data-Engineering-of-Hospital-Lentgth-of-Stay
+# Scalable-Data-Engineering-of-Hospital-Length-of-Stay
 
 Overview
 This repository contains the code and documentation for a project aimed at predicting hospital Length of Stay (LoS) using advanced data engineering techniques. The focus is on building a scalable data warehousing solution and using MySQL Connector for efficient database management.
